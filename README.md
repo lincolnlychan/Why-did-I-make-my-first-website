@@ -10,6 +10,8 @@ Using GitHub Pages gives me more control over the article, and makes sure people
 
 Using GitHub Pages also lets me access more data via the Google Search Console, which helps me improve the article. 
 
+Also by uploading the article to Github, people can help improve the article via issues and pull request. 
+
 Anyway, here is the article in question, I hope you will find it useful:
 
 https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/
