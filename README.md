@@ -1,5 +1,5 @@
 #### by [Lincoln Chan](https://www.linkedin.com/in/lincoln-chan-0a5a60346/) 
-Why did I make my first website?
+Why did I make my [first website](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland)?
 
 It is to solve a problem I noticed.
 
