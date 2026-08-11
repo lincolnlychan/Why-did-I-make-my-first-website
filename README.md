@@ -9,4 +9,5 @@ Using GitHub Pages also lets me access more data via the Google Search Console, 
 
 Anyway, here is the article in question, I hope you will find it useful:
 https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/
+
 https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland
