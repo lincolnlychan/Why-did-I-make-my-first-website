@@ -5,7 +5,7 @@ It is to solve a problem I noticed.
 
 Google did not index [my first LinkedIn article](https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/), so no one will find it when Googling. 
 
-So I converted it into Markdown and then uploaded it to GitHub. Then I hosted the article on my first ever website using GitHub Pages. 
+So I converted it into Markdown and then [uploaded it to GitHub.](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland) Then I hosted [the article on my first ever website](https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland) using GitHub Pages. 
 Using GitHub Pages gives me more control over the article, and makes sure people will find my LinkedIn article when Googling. 
 
 Using GitHub Pages also lets me access more data via the Google Search Console, which helps me improve the article. 
