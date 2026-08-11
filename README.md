@@ -1,3 +1,4 @@
+#### by [Lincoln Chan](https://www.linkedin.com/in/lincoln-chan-0a5a60346/) 
 Why did I make my first website?
 
 It is to solve a problem I noticed.
