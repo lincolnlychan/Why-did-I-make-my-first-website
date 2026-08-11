@@ -15,3 +15,5 @@ Anyway, here is the article in question, I hope you will find it useful:
 https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-when-lincoln-chan-47jyc/
 
 https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland
+
+## [This article was originally posted on my Linkedin.](https://www.linkedin.com/posts/lincoln-chan-0a5a60346_why-did-i-make-my-first-website-it-is-to-ugcPost-7490699727731261440-6cHN/) 
