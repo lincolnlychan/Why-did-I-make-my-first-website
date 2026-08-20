@@ -20,4 +20,3 @@ https://www.linkedin.com/pulse/how-take-aerial-photographs-hong-kong-disneyland-
 https://github.com/lincolnlychan/How-to-take-Aerial-Photographs-of-Hong-Kong-Disneyland
 
 ## [This article was originally posted on my Linkedin.](https://www.linkedin.com/posts/lincoln-chan-0a5a60346_why-did-i-make-my-first-website-it-is-to-ugcPost-7490699727731261440-6cHN/) 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7490699727731261440" height="841" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
